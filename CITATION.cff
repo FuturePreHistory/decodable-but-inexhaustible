@@ -1,0 +1,37 @@
+cff-version: "1.2.0"
+message: "If you cite this repository, please cite it as below."
+
+authors:
+  - name: "FuturePreHistory Archive"
+    alias: "FuturePreHistory"
+
+title: "Decodable but Inexhaustible: A Future Intelligence Test and the Case of Dream of the Red Chamber"
+version: "0.1.0"
+date-released: "2026-06-21"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/FuturePreHistory/decodable-but-inexhaustible"
+url: "https://github.com/FuturePreHistory/decodable-but-inexhaustible"
+
+keywords:
+  - "external civilization decodability"
+  - "future intelligence test"
+  - "classical works"
+  - "Dream of the Red Chamber"
+  - "literary theory"
+  - "AI interpretation"
+  - "civilizational information structure"
+  - "irreducibility"
+  - "canon formation"
+
+abstract: "This repository archives the initial canonical draft of Decodable but Inexhaustible, a theoretical essay on external civilization decodability, future intelligence testing, and the classical work as a decodable yet inexhaustible civilizational information structure. The essay develops a layered test model and uses Dream of the Red Chamber as a high-density case study."
+
+preferred-citation:
+  type: generic
+  authors:
+    - name: "FuturePreHistory Archive"
+      alias: "FuturePreHistory"
+  title: "Decodable but Inexhaustible: A Future Intelligence Test and the Case of Dream of the Red Chamber"
+  year: 2026
+  version: "0.1.0"
+  url: "https://github.com/FuturePreHistory/decodable-but-inexhaustible"
+  date-released: "2026-06-21"
