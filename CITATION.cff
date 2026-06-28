@@ -8,6 +8,7 @@ authors:
 title: "Decodable but Inexhaustible: A Future Intelligence Test and the Case of Dream of the Red Chamber"
 version: "0.1.1"
 date-released: "2026-06-28"
+doi: "10.5281/zenodo.20995165"
 license: "CC-BY-4.0"
 repository-code: "https://github.com/FuturePreHistory/decodable-but-inexhaustible"
 url: "https://github.com/FuturePreHistory/decodable-but-inexhaustible"
@@ -33,5 +34,6 @@ preferred-citation:
   title: "Decodable but Inexhaustible: A Future Intelligence Test and the Case of Dream of the Red Chamber"
   year: 2026
   version: "0.1.1"
+  doi: "10.5281/zenodo.20995165"
   url: "https://github.com/FuturePreHistory/decodable-but-inexhaustible"
   date-released: "2026-06-28"
