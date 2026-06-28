@@ -26,7 +26,7 @@ The essay uses Dream of the Red Chamber as a high-density test case. It examines
 
 ## Citation
 
-FuturePreHistory Archive. Decodable but Inexhaustible: A Future Intelligence Test and the Case of Dream of the Red Chamber. Version 0.1.0. GitHub, 2026.
+FuturePreHistory Archive. Decodable but Inexhaustible: A Future Intelligence Test and the Case of Dream of the Red Chamber. Version 0.1.1. GitHub / Zenodo, 2026.
 
 See [CITATION.cff](CITATION.cff) for machine-readable citation metadata.
 
